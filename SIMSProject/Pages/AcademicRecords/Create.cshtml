@@ -1,0 +1,35 @@
+﻿@page
+@model SIMSProject.Pages.AcademicRecords.CreateModel
+@{
+    ViewData["Title"] = "Add Academic Record";
+}
+
+<h1>Add Academic Record</h1>
+<form method="post">
+    <div class="form-group">
+        <label asp-for="AcademicRecord.StudentId"></label>
+        <input asp-for="AcademicRecord.StudentId" class="form-control" />
+        <span asp-validation-for="AcademicRecord.StudentId" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="AcademicRecord.CourseId"></label>
+        <input asp-for="AcademicRecord.CourseId" class="form-control" />
+        <span asp-validation-for="AcademicRecord.CourseId" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="AcademicRecord.Grade"></label>
+        <input asp-for="AcademicRecord.Grade" class="form-control" />
+        <span asp-validation-for="AcademicRecord.Grade" class="text-danger"></span>
+    </div>
+    @inject Microsoft.AspNetCore.Http.IHttpContextAccessor HttpContextAccessor
+
+    @if (HttpContextAccessor.HttpContext.User.IsInRole("Admin"))
+    {
+        <button type="submit" class="btn btn-primary">Create</button>
+    }
+    <a asp-page="/Index" class="btn btn-secondary">Cancel</a>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

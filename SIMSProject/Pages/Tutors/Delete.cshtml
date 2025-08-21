@@ -1,0 +1,12 @@
+﻿@page
+@model SIMSProject.Pages.Tutors.DeleteModel
+@{
+    ViewData["Title"] = "Delete Tutor";
+}
+
+<h1>Delete Tutor</h1>
+<h3>Are you sure you want to delete @Model.Tutor.Name?</h3>
+<form method="post">
+    <button type="submit" class="btn btn-danger">Delete</button>
+    <a asp-page="/Index" class="btn btn-secondary">Cancel</a>
+</form>

@@ -1,0 +1,23 @@
+﻿@page
+@model SIMSProject.Pages.IndexModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to SIMSProject</h1>
+    @if (User.Identity.IsAuthenticated && User.IsInRole("Admin"))
+    {
+        <h2>Admin Dashboard</h2>
+        <ul class="list-group">
+            <li class="list-group-item"><a asp-page="/Students/Index">Manage Students</a></li>
+            <li class="list-group-item"><a asp-page="/Courses/Index">Manage Courses</a></li>
+            <li class="list-group-item"><a asp-page="/Tutors/Index">Manage Tutors</a></li>
+            <li class="list-group-item"><a asp-page="/AcademicRecords/Index">Manage Academic Records</a></li>
+        </ul>
+    }
+    else
+    {
+        <p>Please log in to access management features.</p>
+    }
+</div>

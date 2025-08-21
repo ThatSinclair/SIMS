@@ -1,0 +1,6 @@
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject.UnitTests\bin\Debug\net8.0\CoverletSourceRootsMapping_SIMSProject.UnitTests
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject.UnitTests\obj\Debug\net8.0\SIMSProject.UnitTests.csproj.AssemblyReference.cache
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject.UnitTests\obj\Debug\net8.0\SIMSProject.UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject.UnitTests\obj\Debug\net8.0\SIMSProject.UnitTests.AssemblyInfoInputs.cache
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject.UnitTests\obj\Debug\net8.0\SIMSProject.UnitTests.AssemblyInfo.cs
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject.UnitTests\obj\Debug\net8.0\SIMSProject.UnitTests.csproj.CoreCompileInputs.cache

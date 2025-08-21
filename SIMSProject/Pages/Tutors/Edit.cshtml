@@ -1,0 +1,26 @@
+﻿@page
+@model SIMSProject.Pages.Courses.EditModel
+@{
+    ViewData["Title"] = "Edit Course";
+}
+
+<h1>Edit Course</h1>
+<form method="post">
+    <div class="form-group">
+        <label asp-for="Course.Title"></label>
+        <input asp-for="Course.Title" class="form-control" />
+        <span asp-validation-for="Course.Title" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Course.Description"></label>
+        <input asp-for="Course.Description" class="form-control" />
+        <span asp-validation-for="Course.Description" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Course.AssignedTutorId"></label> <!-- Updated from TutorId to AssignedTutorId -->
+        <input asp-for="Course.AssignedTutorId" class="form-control" /> <!-- Updated from TutorId to AssignedTutorId -->
+        <span asp-validation-for="Course.AssignedTutorId" class="text-danger"></span> <!-- Updated from TutorId to AssignedTutorId -->
+    </div>
+    <button type="submit" class="btn btn-primary">Save</button>
+    <a asp-page="/Index" class="btn btn-secondary">Cancel</a>
+</form>

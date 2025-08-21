@@ -1,0 +1,547 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VS repository\\SIMSProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VS repository\\SIMSProject\\SIMSProject\\Models\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SIMSProject\\Models\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VS repository\\SIMSProject\\SIMSProject\\Pages\\Students\\Create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SIMSProject\\Pages\\Students\\Create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VS repository\\SIMSProject\\SIMSProject\\Pages\\Students\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SIMSProject\\Pages\\Students\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VS repository\\SIMSProject\\SIMSProject\\Pages\\Courses\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SIMSProject\\Pages\\Courses\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VS repository\\SIMSProject\\SIMSProject\\Pages\\Courses\\Index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SIMSProject\\Pages\\Courses\\Index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VS repository\\SIMSProject\\SIMSProject\\Pages\\Students\\Edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SIMSProject\\Pages\\Students\\Edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VS repository\\SIMSProject\\SIMSProject\\Pages\\Students\\Index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SIMSProject\\Pages\\Students\\Index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VS repository\\SIMSProject\\SIMSProject\\Pages\\Courses\\Create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SIMSProject\\Pages\\Courses\\Create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VS repository\\SIMSProject\\SIMSProject\\Pages\\Courses\\Delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SIMSProject\\Pages\\Courses\\Delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VS repository\\SIMSProject\\SIMSProject\\Pages\\Courses\\Edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SIMSProject\\Pages\\Courses\\Edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VS repository\\SIMSProject\\SIMSProject\\Pages\\Shared\\_ValidationScriptsPartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SIMSProject\\Pages\\Shared\\_ValidationScriptsPartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VS repository\\SIMSProject\\SIMSProject\\Pages\\Students\\Delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SIMSProject\\Pages\\Students\\Delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VS repository\\SIMSProject\\SIMSProject\\Pages\\Account\\Register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SIMSProject\\Pages\\Account\\Register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VS repository\\SIMSProject\\SIMSProject\\Pages\\AcademicRecords\\Index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SIMSProject\\Pages\\AcademicRecords\\Index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VS repository\\SIMSProject\\SIMSProject\\Pages\\Admin\\Manage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SIMSProject\\Pages\\Admin\\Manage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VS repository\\SIMSProject\\SIMSProject\\Pages\\Admin\\Manage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SIMSProject\\Pages\\Admin\\Manage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VS repository\\SIMSProject\\SIMSProject\\Pages\\AcademicRecords\\Create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SIMSProject\\Pages\\AcademicRecords\\Create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VS repository\\SIMSProject\\SIMSProject\\Pages\\AcademicRecords\\Delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SIMSProject\\Pages\\AcademicRecords\\Delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VS repository\\SIMSProject\\SIMSProject\\Pages\\AcademicRecords\\Edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SIMSProject\\Pages\\AcademicRecords\\Edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VS repository\\SIMSProject\\SIMSProject\\Services\\StudentService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SIMSProject\\Services\\StudentService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VS repository\\SIMSProject\\SIMSProject\\Interfaces\\IStudentService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SIMSProject\\Interfaces\\IStudentService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VS repository\\SIMSProject\\SIMSProject\\Pages\\Index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SIMSProject\\Pages\\Index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VS repository\\SIMSProject\\SIMSProject\\Interfaces\\ITutorService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SIMSProject\\Interfaces\\ITutorService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VS repository\\SIMSProject\\SIMSProject\\Interfaces\\ICsvService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SIMSProject\\Interfaces\\ICsvService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VS repository\\SIMSProject\\SIMSProject\\Interfaces\\IAcademicRecordService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SIMSProject\\Interfaces\\IAcademicRecordService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VS repository\\SIMSProject\\SIMSProject\\Models\\Course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SIMSProject\\Models\\Course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VS repository\\SIMSProject\\SIMSProject\\Models\\AcademicRecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SIMSProject\\Models\\AcademicRecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VS repository\\SIMSProject\\SIMSProject\\Models\\Tutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SIMSProject\\Models\\Tutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VS repository\\SIMSProject\\SIMSProject\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SIMSProject\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VS repository\\SIMSProject\\SIMSProject\\Pages\\Tutors\\Index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SIMSProject\\Pages\\Tutors\\Index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VS repository\\SIMSProject\\SIMSProject\\Pages\\Tutors\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SIMSProject\\Pages\\Tutors\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 256,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\VS repository\\SIMSProject\\SIMSProject\\Pages\\Students\\Create.cshtml",
+              "RelativeDocumentMoniker": "SIMSProject\\Pages\\Students\\Create.cshtml",
+              "ToolTip": "E:\\VS repository\\SIMSProject\\SIMSProject\\Pages\\Students\\Create.cshtml",
+              "RelativeToolTip": "SIMSProject\\Pages\\Students\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-21T10:18:50.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "E:\\VS repository\\SIMSProject\\SIMSProject\\Pages\\Courses\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "SIMSProject\\Pages\\Courses\\Create.cshtml.cs",
+              "ToolTip": "E:\\VS repository\\SIMSProject\\SIMSProject\\Pages\\Courses\\Create.cshtml.cs",
+              "RelativeToolTip": "SIMSProject\\Pages\\Courses\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T10:18:17.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "E:\\VS repository\\SIMSProject\\SIMSProject\\Pages\\Courses\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "SIMSProject\\Pages\\Courses\\Delete.cshtml.cs",
+              "ToolTip": "E:\\VS repository\\SIMSProject\\SIMSProject\\Pages\\Courses\\Delete.cshtml.cs",
+              "RelativeToolTip": "SIMSProject\\Pages\\Courses\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T10:18:15.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "E:\\VS repository\\SIMSProject\\SIMSProject\\Pages\\Courses\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "SIMSProject\\Pages\\Courses\\Edit.cshtml.cs",
+              "ToolTip": "E:\\VS repository\\SIMSProject\\SIMSProject\\Pages\\Courses\\Edit.cshtml.cs",
+              "RelativeToolTip": "SIMSProject\\Pages\\Courses\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T10:18:13.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "E:\\VS repository\\SIMSProject\\SIMSProject\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "SIMSProject\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "E:\\VS repository\\SIMSProject\\SIMSProject\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "SIMSProject\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-21T10:18:10.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "E:\\VS repository\\SIMSProject\\SIMSProject\\Pages\\Students\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "SIMSProject\\Pages\\Students\\Create.cshtml.cs",
+              "ToolTip": "E:\\VS repository\\SIMSProject\\SIMSProject\\Pages\\Students\\Create.cshtml.cs",
+              "RelativeToolTip": "SIMSProject\\Pages\\Students\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T10:18:08.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "E:\\VS repository\\SIMSProject\\SIMSProject\\Pages\\Students\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "SIMSProject\\Pages\\Students\\Edit.cshtml.cs",
+              "ToolTip": "E:\\VS repository\\SIMSProject\\SIMSProject\\Pages\\Students\\Edit.cshtml.cs",
+              "RelativeToolTip": "SIMSProject\\Pages\\Students\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T10:18:05.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "E:\\VS repository\\SIMSProject\\SIMSProject\\Pages\\Students\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "SIMSProject\\Pages\\Students\\Index.cshtml.cs",
+              "ToolTip": "E:\\VS repository\\SIMSProject\\SIMSProject\\Pages\\Students\\Index.cshtml.cs",
+              "RelativeToolTip": "SIMSProject\\Pages\\Students\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T10:18:03.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "E:\\VS repository\\SIMSProject\\SIMSProject\\Pages\\Courses\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "SIMSProject\\Pages\\Courses\\Index.cshtml.cs",
+              "ToolTip": "E:\\VS repository\\SIMSProject\\SIMSProject\\Pages\\Courses\\Index.cshtml.cs",
+              "RelativeToolTip": "SIMSProject\\Pages\\Courses\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T10:01:30.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\VS repository\\SIMSProject\\SIMSProject\\Pages\\Courses\\Index.cshtml",
+              "RelativeDocumentMoniker": "SIMSProject\\Pages\\Courses\\Index.cshtml",
+              "ToolTip": "E:\\VS repository\\SIMSProject\\SIMSProject\\Pages\\Courses\\Index.cshtml",
+              "RelativeToolTip": "SIMSProject\\Pages\\Courses\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-21T10:01:28.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\VS repository\\SIMSProject\\SIMSProject\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "SIMSProject\\Models\\Student.cs",
+              "ToolTip": "E:\\VS repository\\SIMSProject\\SIMSProject\\Models\\Student.cs",
+              "RelativeToolTip": "SIMSProject\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T10:01:41.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "E:\\VS repository\\SIMSProject\\SIMSProject\\Pages\\Students\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "SIMSProject\\Pages\\Students\\Delete.cshtml.cs",
+              "ToolTip": "E:\\VS repository\\SIMSProject\\SIMSProject\\Pages\\Students\\Delete.cshtml.cs",
+              "RelativeToolTip": "SIMSProject\\Pages\\Students\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T10:18:06.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "E:\\VS repository\\SIMSProject\\SIMSProject\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "SIMSProject\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "E:\\VS repository\\SIMSProject\\SIMSProject\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "SIMSProject\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T10:18:01.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Manage.cshtml.cs",
+              "DocumentMoniker": "E:\\VS repository\\SIMSProject\\SIMSProject\\Pages\\Admin\\Manage.cshtml.cs",
+              "RelativeDocumentMoniker": "SIMSProject\\Pages\\Admin\\Manage.cshtml.cs",
+              "ToolTip": "E:\\VS repository\\SIMSProject\\SIMSProject\\Pages\\Admin\\Manage.cshtml.cs",
+              "RelativeToolTip": "SIMSProject\\Pages\\Admin\\Manage.cshtml.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T10:17:57.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Manage.cshtml",
+              "DocumentMoniker": "E:\\VS repository\\SIMSProject\\SIMSProject\\Pages\\Admin\\Manage.cshtml",
+              "RelativeDocumentMoniker": "SIMSProject\\Pages\\Admin\\Manage.cshtml",
+              "ToolTip": "E:\\VS repository\\SIMSProject\\SIMSProject\\Pages\\Admin\\Manage.cshtml",
+              "RelativeToolTip": "SIMSProject\\Pages\\Admin\\Manage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-21T10:17:56.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "E:\\VS repository\\SIMSProject\\SIMSProject\\Pages\\AcademicRecords\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "SIMSProject\\Pages\\AcademicRecords\\Create.cshtml.cs",
+              "ToolTip": "E:\\VS repository\\SIMSProject\\SIMSProject\\Pages\\AcademicRecords\\Create.cshtml.cs",
+              "RelativeToolTip": "SIMSProject\\Pages\\AcademicRecords\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T10:17:54.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "E:\\VS repository\\SIMSProject\\SIMSProject\\Pages\\AcademicRecords\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "SIMSProject\\Pages\\AcademicRecords\\Delete.cshtml.cs",
+              "ToolTip": "E:\\VS repository\\SIMSProject\\SIMSProject\\Pages\\AcademicRecords\\Delete.cshtml.cs",
+              "RelativeToolTip": "SIMSProject\\Pages\\AcademicRecords\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T10:17:52.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "E:\\VS repository\\SIMSProject\\SIMSProject\\Pages\\AcademicRecords\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "SIMSProject\\Pages\\AcademicRecords\\Edit.cshtml.cs",
+              "ToolTip": "E:\\VS repository\\SIMSProject\\SIMSProject\\Pages\\AcademicRecords\\Edit.cshtml.cs",
+              "RelativeToolTip": "SIMSProject\\Pages\\AcademicRecords\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T10:17:50.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "E:\\VS repository\\SIMSProject\\SIMSProject\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "SIMSProject\\Services\\StudentService.cs",
+              "ToolTip": "E:\\VS repository\\SIMSProject\\SIMSProject\\Services\\StudentService.cs",
+              "RelativeToolTip": "SIMSProject\\Services\\StudentService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T10:17:36.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "E:\\VS repository\\SIMSProject\\SIMSProject\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "SIMSProject\\Pages\\Index.cshtml.cs",
+              "ToolTip": "E:\\VS repository\\SIMSProject\\SIMSProject\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "SIMSProject\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T10:16:55.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ITutorService.cs",
+              "DocumentMoniker": "E:\\VS repository\\SIMSProject\\SIMSProject\\Interfaces\\ITutorService.cs",
+              "RelativeDocumentMoniker": "SIMSProject\\Interfaces\\ITutorService.cs",
+              "ToolTip": "E:\\VS repository\\SIMSProject\\SIMSProject\\Interfaces\\ITutorService.cs",
+              "RelativeToolTip": "SIMSProject\\Interfaces\\ITutorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T10:16:41.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "E:\\VS repository\\SIMSProject\\SIMSProject\\Interfaces\\IStudentService.cs",
+              "RelativeDocumentMoniker": "SIMSProject\\Interfaces\\IStudentService.cs",
+              "ToolTip": "E:\\VS repository\\SIMSProject\\SIMSProject\\Interfaces\\IStudentService.cs",
+              "RelativeToolTip": "SIMSProject\\Interfaces\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T10:16:41.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ICsvService.cs",
+              "DocumentMoniker": "E:\\VS repository\\SIMSProject\\SIMSProject\\Interfaces\\ICsvService.cs",
+              "RelativeDocumentMoniker": "SIMSProject\\Interfaces\\ICsvService.cs",
+              "ToolTip": "E:\\VS repository\\SIMSProject\\SIMSProject\\Interfaces\\ICsvService.cs",
+              "RelativeToolTip": "SIMSProject\\Interfaces\\ICsvService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T10:16:39.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "E:\\VS repository\\SIMSProject\\SIMSProject\\Pages\\AcademicRecords\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "SIMSProject\\Pages\\AcademicRecords\\Index.cshtml.cs",
+              "ToolTip": "E:\\VS repository\\SIMSProject\\SIMSProject\\Pages\\AcademicRecords\\Index.cshtml.cs",
+              "RelativeToolTip": "SIMSProject\\Pages\\AcademicRecords\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T10:01:35.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IAcademicRecordService.cs",
+              "DocumentMoniker": "E:\\VS repository\\SIMSProject\\SIMSProject\\Interfaces\\IAcademicRecordService.cs",
+              "RelativeDocumentMoniker": "SIMSProject\\Interfaces\\IAcademicRecordService.cs",
+              "ToolTip": "E:\\VS repository\\SIMSProject\\SIMSProject\\Interfaces\\IAcademicRecordService.cs",
+              "RelativeToolTip": "SIMSProject\\Interfaces\\IAcademicRecordService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T10:16:38.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AcademicRecord.cs",
+              "DocumentMoniker": "E:\\VS repository\\SIMSProject\\SIMSProject\\Models\\AcademicRecord.cs",
+              "RelativeDocumentMoniker": "SIMSProject\\Models\\AcademicRecord.cs",
+              "ToolTip": "E:\\VS repository\\SIMSProject\\SIMSProject\\Models\\AcademicRecord.cs",
+              "RelativeToolTip": "SIMSProject\\Models\\AcademicRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T10:02:02.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Course.cs",
+              "DocumentMoniker": "E:\\VS repository\\SIMSProject\\SIMSProject\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "SIMSProject\\Models\\Course.cs",
+              "ToolTip": "E:\\VS repository\\SIMSProject\\SIMSProject\\Models\\Course.cs",
+              "RelativeToolTip": "SIMSProject\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T10:02:01.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Tutor.cs",
+              "DocumentMoniker": "E:\\VS repository\\SIMSProject\\SIMSProject\\Models\\Tutor.cs",
+              "RelativeDocumentMoniker": "SIMSProject\\Models\\Tutor.cs",
+              "ToolTip": "E:\\VS repository\\SIMSProject\\SIMSProject\\Models\\Tutor.cs",
+              "RelativeToolTip": "SIMSProject\\Models\\Tutor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T10:01:59.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\VS repository\\SIMSProject\\SIMSProject\\Models\\User.cs",
+              "RelativeDocumentMoniker": "SIMSProject\\Models\\User.cs",
+              "ToolTip": "E:\\VS repository\\SIMSProject\\SIMSProject\\Models\\User.cs",
+              "RelativeToolTip": "SIMSProject\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T10:01:58.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "E:\\VS repository\\SIMSProject\\SIMSProject\\Pages\\Tutors\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "SIMSProject\\Pages\\Tutors\\Index.cshtml.cs",
+              "ToolTip": "E:\\VS repository\\SIMSProject\\SIMSProject\\Pages\\Tutors\\Index.cshtml.cs",
+              "RelativeToolTip": "SIMSProject\\Pages\\Tutors\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T08:42:03.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\VS repository\\SIMSProject\\SIMSProject\\Pages\\Tutors\\Index.cshtml",
+              "RelativeDocumentMoniker": "SIMSProject\\Pages\\Tutors\\Index.cshtml",
+              "ToolTip": "E:\\VS repository\\SIMSProject\\SIMSProject\\Pages\\Tutors\\Index.cshtml",
+              "RelativeToolTip": "SIMSProject\\Pages\\Tutors\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-21T08:42:02.143Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

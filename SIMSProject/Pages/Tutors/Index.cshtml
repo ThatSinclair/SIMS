@@ -1,0 +1,39 @@
+﻿@page
+@model SIMSProject.Pages.Tutors.IndexModel
+@inject Microsoft.AspNetCore.Http.IHttpContextAccessor HttpContextAccessor
+@{
+    ViewData["Title"] = "Tutors";
+}
+
+<h1>Tutors</h1>
+@if (HttpContextAccessor.HttpContext.User.IsInRole("Admin"))
+{
+    <a asp-page="Create" class="btn btn-primary">Add New Tutor</a>
+}
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Experience Years</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var tutor in Model.Tutors)
+        {
+            <tr>
+                <td>@tutor.Name</td>
+                <td>@tutor.Email</td>
+                <td>@tutor.ExperienceYears</td>
+                <td>
+                    @if (HttpContextAccessor.HttpContext.User.IsInRole("Admin"))
+                    {
+                        <a asp-page="/Tutors/Edit" asp-route-id="@tutor.Id" class="btn btn-warning">Edit</a>
+                        <a asp-page="/Tutors/Delete" asp-route-id="@tutor.Id" class="btn btn-danger">Delete</a>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,35 @@
+﻿@page
+@model SIMSProject.Pages.Account.RegisterModel
+@{
+    ViewData["Title"] = "Register";
+}
+<h2>Register</h2>
+@if (!string.IsNullOrEmpty(Model.Notification))
+{
+    <div class="alert alert-warning">@Model.Notification</div>
+}
+<form method="post">
+    <div class="form-group">
+        <label asp-for="User.Username"></label>
+        <input asp-for="User.Username" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Password</label>
+        <input asp-for="Password" type="password" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Confirm Password</label>
+        <input asp-for="ConfirmPassword" type="password" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="User.Role"></label>
+        <select asp-for="User.Role" class="form-control">
+            <option value="">-- Select Role --</option>
+            <option value="Student">Student</option>
+            <option value="Tutor">Tutor</option>
+            <option value="Admin">Admin</option>
+        </select>
+        <span asp-validation-for="User.Role" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Register</button>
+</form>

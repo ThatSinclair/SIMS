@@ -1,0 +1,10 @@
+Id,Username,PasswordHash,Role
+0, admin, 123456, Admin
+0, Hung, 123456, Tutor
+0, student, 123456, Student
+0,admin123,123456,Admin
+0,student123,123456,Student
+0,Tien,123456,Tutor
+0,example123,123456,
+0,hung,123456,Student
+0,tien,123456,Tutor

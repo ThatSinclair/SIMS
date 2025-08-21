@@ -1,0 +1,129 @@
+using Microsoft.AspNetCore.Mvc.Testing;
+using Microsoft.VisualStudio.TestPlatform.TestHost;
+using SIMSProject;
+using System.Net;
+using System.Net.Http;
+using System.Threading.Tasks;
+using Xunit;
+
+namespace SIMSProject_IntegrationTests
+{
+    public class IntegrationTests : IClassFixture<WebApplicationFactory<Program>>
+    {
+        private readonly HttpClient _client;
+        private readonly WebApplicationFactory<Program> _factory;
+
+        public IntegrationTests(WebApplicationFactory<Program> factory)
+        {
+            _factory = factory;
+            _client = CreateAuthenticatedClient();
+        }
+
+        private HttpClient CreateAuthenticatedClient()
+        {
+            return _factory.CreateClient(new WebApplicationFactoryClientOptions
+            {
+                AllowAutoRedirect = false
+            });
+        }
+
+        [Fact]
+        public async Task HomePage_ReturnsSuccess()
+        {
+            var response = await _client.GetAsync("/");
+            Assert.Equal(HttpStatusCode.OK, response.StatusCode);
+        }
+
+        [Fact]
+        public async Task LoginPage_ReturnsSuccess()
+        {
+            var response = await _client.GetAsync("/Account/Login");
+            Assert.Equal(HttpStatusCode.OK, response.StatusCode);
+        }
+
+        [Fact]
+        public async Task RegisterPage_ReturnsSuccess()
+        {
+            var response = await _client.GetAsync("/Account/Register");
+            Assert.Equal(HttpStatusCode.OK, response.StatusCode);
+        }
+
+        [Fact]
+        public async Task StudentsIndex_ReturnsSuccess()
+        {
+            var response = await _client.GetAsync("/Students/Index");
+            Assert.Equal(HttpStatusCode.OK, response.StatusCode);
+        }
+
+        [Fact]
+        public async Task TutorsIndex_ReturnsSuccess()
+        {
+            var response = await _client.GetAsync("/Tutors/Index");
+            Assert.Equal(HttpStatusCode.OK, response.StatusCode);
+        }
+
+        [Fact]
+        public async Task CoursesIndex_ReturnsSuccess()
+        {
+            var response = await _client.GetAsync("/Courses/Index");
+            Assert.Equal(HttpStatusCode.OK, response.StatusCode);
+        }
+
+        [Fact]
+        public async Task AcademicRecordsIndex_ReturnsSuccess()
+        {
+            var response = await _client.GetAsync("/AcademicRecords/Index");
+            Assert.Equal(HttpStatusCode.OK, response.StatusCode);
+        }
+
+        [Fact]
+        public async Task PrivacyPage_ReturnsSuccess()
+        {
+            var response = await _client.GetAsync("/Privacy");
+            Assert.Equal(HttpStatusCode.OK, response.StatusCode);
+        }
+
+        [Fact]
+        public async Task CreateStudentPage_ReturnsSuccess()
+        {
+            var response = await _client.GetAsync("/Students/Create");
+            Assert.Equal(HttpStatusCode.OK, response.StatusCode);
+        }
+
+        [Fact]
+        public async Task CreateTutorPage_ReturnsSuccess()
+        {
+            var response = await _client.GetAsync("/Tutors/Create");
+            Assert.Equal(HttpStatusCode.OK, response.StatusCode);
+        }
+
+        [Fact]
+        public async Task CreateCoursePage_ReturnsSuccess()
+        {
+            var response = await _client.GetAsync("/Courses/Create");
+            Assert.Equal(HttpStatusCode.OK, response.StatusCode);
+        }
+
+        [Fact]
+        public async Task CreateAcademicRecordPage_ReturnsSuccess()
+        {
+            var response = await _client.GetAsync("/AcademicRecords/Create");
+            Assert.Equal(HttpStatusCode.OK, response.StatusCode);
+        }
+
+        [Fact]
+        public async Task AdminManagePage_RedirectsIfNotAuthenticated()
+        {
+            var response = await _client.GetAsync("/Admin/Manage");
+            Assert.Equal(HttpStatusCode.Redirect, response.StatusCode); // Expect 302 redirect to login
+            Assert.True(response.Headers.Location?.OriginalString.EndsWith("/Account/Login"), "Should redirect to login page");
+        }
+
+        [Fact]
+        public async Task NotFoundPage_ReturnsNotFound()
+        {
+            var response = await _client.GetAsync("/ThisPageDoesNotExist");
+            Assert.Equal(HttpStatusCode.NotFound, response.StatusCode);
+        }
+    }
+}

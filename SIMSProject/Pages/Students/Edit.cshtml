@@ -1,0 +1,31 @@
+﻿@page
+@model SIMSProject.Pages.Students.EditModel
+@{
+    ViewData["Title"] = "Edit Student";
+}
+
+<h1>Edit Student</h1>
+<form method="post">
+    <div class="form-group">
+        <label asp-for="Student.FirstName"></label>
+        <input asp-for="Student.FirstName" class="form-control" />
+        <span asp-validation-for="Student.FirstName" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Student.LastName"></label>
+        <input asp-for="Student.LastName" class="form-control" />
+        <span asp-validation-for="Student.LastName" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Student.Email"></label>
+        <input asp-for="Student.Email" class="form-control" />
+        <span asp-validation-for="Student.Email" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Student.StudentId"></label>
+        <input asp-for="Student.StudentId" class="form-control" readonly />
+        <span asp-validation-for="Student.StudentId" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Save</button>
+    <a asp-page="/Index" class="btn btn-secondary">Cancel</a>
+</form>

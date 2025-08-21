@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SIMSProject",
+    "\\SIMSProject\\Interfaces",
+    "\\SIMSProject\\Models",
+    "\\SIMSProject\\Pages",
+    "\\SIMSProject\\Pages\\AcademicRecords",
+    "\\SIMSProject\\Pages\\Account",
+    "\\SIMSProject\\Pages\\Admin",
+    "\\SIMSProject\\Pages\\Courses",
+    "\\SIMSProject\\Pages\\Shared"
+  ],
+  "SelectedNode": "\\SIMSProject\\Models\\Student.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,44 @@
+﻿@page
+@model SIMSProject.Pages.AcademicRecords.IndexModel
+@using Microsoft.AspNetCore.Identity
+@inject Microsoft.AspNetCore.Http.IHttpContextAccessor HttpContextAccessor
+@{
+    ViewData["Title"] = "Academic Records";
+}
+
+<h1>Students</h1>
+<div class="d-flex justify-content-between align-items-center mt-4 mb-3">
+    <h1 class="mb-0">Academic Records</h1>
+    @if (HttpContextAccessor.HttpContext.User.IsInRole("Admin"))
+    {
+        <a asp-page="Create" class="btn btn-primary">Add New Record</a>
+    }
+</div>
+<table class="table table-striped table-bordered align-middle">
+    <thead class="table-light">
+        <tr>
+            <th>Student ID</th>
+            <th>Course ID</th>
+            <th>Grade</th>
+            <th style="width: 180px;">Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var record in Model.Records)
+        {
+            <tr>
+                <td>@record.StudentId</td>
+                <td>@record.CourseId</td>
+                <td>@record.Grade</td>
+                <td>
+                    @if (HttpContextAccessor.HttpContext.User.IsInRole("Admin"))
+                    {
+                        <a asp-page="Edit" asp-route-id="@record.Id" class="btn btn-sm btn-warning me-1">Edit</a>
+                        <a asp-page="Delete" asp-route-id="@record.Id" class="btn btn-sm btn-danger">Delete</a>
+                    }
+                    <a asp-page="/Courses/Index" asp-route-studentId="@record.StudentId" class="btn btn-info">View Courses</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

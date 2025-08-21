@@ -1,0 +1,1221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|c:\\users\\fire risky\\onedrive\\documents\\cao \u0111\u1EB3ng fpt\\applied programming and design principles\\assignments\\simsproject\\simsproject\\pages\\tutors\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|solutionrelative:simsproject\\pages\\tutors\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|c:\\users\\fire risky\\onedrive\\documents\\cao \u0111\u1EB3ng fpt\\applied programming and design principles\\assignments\\simsproject\\simsproject\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|solutionrelative:simsproject\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|c:\\users\\fire risky\\onedrive\\documents\\cao \u0111\u1EB3ng fpt\\applied programming and design principles\\assignments\\simsproject\\simsproject\\pages\\students\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|solutionrelative:simsproject\\pages\\students\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|c:\\users\\fire risky\\onedrive\\documents\\cao \u0111\u1EB3ng fpt\\applied programming and design principles\\assignments\\simsproject\\simsproject\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|solutionrelative:simsproject\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CA1F25-326F-4914-91CD-0FDC6C633223}|SISMProject_Test\\SISMProject_Test.csproj|c:\\users\\fire risky\\onedrive\\documents\\cao \u0111\u1EB3ng fpt\\applied programming and design principles\\assignments\\simsproject\\sismproject_test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98CA1F25-326F-4914-91CD-0FDC6C633223}|SISMProject_Test\\SISMProject_Test.csproj|solutionrelative:sismproject_test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|c:\\users\\fire risky\\onedrive\\documents\\cao \u0111\u1EB3ng fpt\\applied programming and design principles\\assignments\\simsproject\\simsproject\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|solutionrelative:simsproject\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|c:\\users\\fire risky\\onedrive\\documents\\cao \u0111\u1EB3ng fpt\\applied programming and design principles\\assignments\\simsproject\\simsproject\\pages\\admin\\manage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|solutionrelative:simsproject\\pages\\admin\\manage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|c:\\users\\fire risky\\onedrive\\documents\\cao \u0111\u1EB3ng fpt\\applied programming and design principles\\assignments\\simsproject\\simsproject\\pages\\admin\\manage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|solutionrelative:simsproject\\pages\\admin\\manage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|c:\\users\\fire risky\\onedrive\\documents\\cao \u0111\u1EB3ng fpt\\applied programming and design principles\\assignments\\simsproject\\simsproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|solutionrelative:simsproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|c:\\users\\fire risky\\onedrive\\documents\\cao \u0111\u1EB3ng fpt\\applied programming and design principles\\assignments\\simsproject\\simsproject\\pages\\tutors\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|solutionrelative:simsproject\\pages\\tutors\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|c:\\users\\fire risky\\onedrive\\documents\\cao \u0111\u1EB3ng fpt\\applied programming and design principles\\assignments\\simsproject\\simsproject\\services\\tutorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|solutionrelative:simsproject\\services\\tutorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|c:\\users\\fire risky\\onedrive\\documents\\cao \u0111\u1EB3ng fpt\\applied programming and design principles\\assignments\\simsproject\\simsproject\\interfaces\\itutorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|solutionrelative:simsproject\\interfaces\\itutorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|c:\\users\\fire risky\\onedrive\\documents\\cao \u0111\u1EB3ng fpt\\applied programming and design principles\\assignments\\simsproject\\simsproject\\models\\tutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|solutionrelative:simsproject\\models\\tutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|c:\\users\\fire risky\\onedrive\\documents\\cao \u0111\u1EB3ng fpt\\applied programming and design principles\\assignments\\simsproject\\simsproject\\pages\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|solutionrelative:simsproject\\pages\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|c:\\users\\fire risky\\onedrive\\documents\\cao \u0111\u1EB3ng fpt\\applied programming and design principles\\assignments\\simsproject\\simsproject\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|solutionrelative:simsproject\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|c:\\users\\fire risky\\onedrive\\documents\\cao \u0111\u1EB3ng fpt\\applied programming and design principles\\assignments\\simsproject\\simsproject\\interfaces\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|solutionrelative:simsproject\\interfaces\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|c:\\users\\fire risky\\onedrive\\documents\\cao \u0111\u1EB3ng fpt\\applied programming and design principles\\assignments\\simsproject\\simsproject\\pages\\courses\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|solutionrelative:simsproject\\pages\\courses\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|c:\\users\\fire risky\\onedrive\\documents\\cao \u0111\u1EB3ng fpt\\applied programming and design principles\\assignments\\simsproject\\simsproject\\pages\\courses\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|solutionrelative:simsproject\\pages\\courses\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|c:\\users\\fire risky\\onedrive\\documents\\cao \u0111\u1EB3ng fpt\\applied programming and design principles\\assignments\\simsproject\\simsproject\\pages\\courses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|solutionrelative:simsproject\\pages\\courses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|c:\\users\\fire risky\\onedrive\\documents\\cao \u0111\u1EB3ng fpt\\applied programming and design principles\\assignments\\simsproject\\simsproject\\pages\\academicrecords\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|solutionrelative:simsproject\\pages\\academicrecords\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|c:\\users\\fire risky\\onedrive\\documents\\cao \u0111\u1EB3ng fpt\\applied programming and design principles\\assignments\\simsproject\\simsproject\\pages\\academicrecords\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|solutionrelative:simsproject\\pages\\academicrecords\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|c:\\users\\fire risky\\onedrive\\documents\\cao \u0111\u1EB3ng fpt\\applied programming and design principles\\assignments\\simsproject\\simsproject\\pages\\academicrecords\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|solutionrelative:simsproject\\pages\\academicrecords\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|c:\\users\\fire risky\\onedrive\\documents\\cao \u0111\u1EB3ng fpt\\applied programming and design principles\\assignments\\simsproject\\simsproject\\pages\\academicrecords\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|solutionrelative:simsproject\\pages\\academicrecords\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|c:\\users\\fire risky\\onedrive\\documents\\cao \u0111\u1EB3ng fpt\\applied programming and design principles\\assignments\\simsproject\\simsproject\\pages\\academicrecords\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|solutionrelative:simsproject\\pages\\academicrecords\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|c:\\users\\fire risky\\onedrive\\documents\\cao \u0111\u1EB3ng fpt\\applied programming and design principles\\assignments\\simsproject\\simsproject\\pages\\academicrecords\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|solutionrelative:simsproject\\pages\\academicrecords\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|c:\\users\\fire risky\\onedrive\\documents\\cao \u0111\u1EB3ng fpt\\applied programming and design principles\\assignments\\simsproject\\simsproject\\pages\\academicrecords\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|solutionrelative:simsproject\\pages\\academicrecords\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|c:\\users\\fire risky\\onedrive\\documents\\cao \u0111\u1EB3ng fpt\\applied programming and design principles\\assignments\\simsproject\\simsproject\\pages\\academicrecords\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|solutionrelative:simsproject\\pages\\academicrecords\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|c:\\users\\fire risky\\onedrive\\documents\\cao \u0111\u1EB3ng fpt\\applied programming and design principles\\assignments\\simsproject\\simsproject\\data\\courses.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|solutionrelative:simsproject\\data\\courses.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|c:\\users\\fire risky\\onedrive\\documents\\cao \u0111\u1EB3ng fpt\\applied programming and design principles\\assignments\\simsproject\\simsproject\\pages\\courses\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|solutionrelative:simsproject\\pages\\courses\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|c:\\users\\fire risky\\onedrive\\documents\\cao \u0111\u1EB3ng fpt\\applied programming and design principles\\assignments\\simsproject\\simsproject\\pages\\courses\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|solutionrelative:simsproject\\pages\\courses\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|c:\\users\\fire risky\\onedrive\\documents\\cao \u0111\u1EB3ng fpt\\applied programming and design principles\\assignments\\simsproject\\simsproject\\pages\\courses\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|solutionrelative:simsproject\\pages\\courses\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|c:\\users\\fire risky\\onedrive\\documents\\cao \u0111\u1EB3ng fpt\\applied programming and design principles\\assignments\\simsproject\\simsproject\\data\\students.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|solutionrelative:simsproject\\data\\students.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|c:\\users\\fire risky\\onedrive\\documents\\cao \u0111\u1EB3ng fpt\\applied programming and design principles\\assignments\\simsproject\\simsproject\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|solutionrelative:simsproject\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|c:\\users\\fire risky\\onedrive\\documents\\cao \u0111\u1EB3ng fpt\\applied programming and design principles\\assignments\\simsproject\\simsproject\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|solutionrelative:simsproject\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|c:\\users\\fire risky\\onedrive\\documents\\cao \u0111\u1EB3ng fpt\\applied programming and design principles\\assignments\\simsproject\\simsproject\\data\\tutors.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|solutionrelative:simsproject\\data\\tutors.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|c:\\users\\fire risky\\onedrive\\documents\\cao \u0111\u1EB3ng fpt\\applied programming and design principles\\assignments\\simsproject\\simsproject\\data\\users.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|solutionrelative:simsproject\\data\\users.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|c:\\users\\fire risky\\onedrive\\documents\\cao \u0111\u1EB3ng fpt\\applied programming and design principles\\assignments\\simsproject\\simsproject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|solutionrelative:simsproject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|c:\\users\\fire risky\\onedrive\\documents\\cao \u0111\u1EB3ng fpt\\applied programming and design principles\\assignments\\simsproject\\simsproject\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|solutionrelative:simsproject\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|c:\\users\\fire risky\\onedrive\\documents\\cao \u0111\u1EB3ng fpt\\applied programming and design principles\\assignments\\simsproject\\simsproject\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|solutionrelative:simsproject\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|c:\\users\\fire risky\\onedrive\\documents\\cao \u0111\u1EB3ng fpt\\applied programming and design principles\\assignments\\simsproject\\simsproject\\services\\csvservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|solutionrelative:simsproject\\services\\csvservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|c:\\users\\fire risky\\onedrive\\documents\\cao \u0111\u1EB3ng fpt\\applied programming and design principles\\assignments\\simsproject\\simsproject\\data\\academic_records.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|solutionrelative:simsproject\\data\\academic_records.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|c:\\users\\fire risky\\onedrive\\documents\\cao \u0111\u1EB3ng fpt\\applied programming and design principles\\assignments\\simsproject\\simsproject\\data\\lecturers.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|solutionrelative:simsproject\\data\\lecturers.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|c:\\users\\fire risky\\onedrive\\documents\\cao \u0111\u1EB3ng fpt\\applied programming and design principles\\assignments\\simsproject\\simsproject\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|solutionrelative:simsproject\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|c:\\users\\fire risky\\onedrive\\documents\\cao \u0111\u1EB3ng fpt\\applied programming and design principles\\assignments\\simsproject\\simsproject\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|solutionrelative:simsproject\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|c:\\users\\fire risky\\onedrive\\documents\\cao \u0111\u1EB3ng fpt\\applied programming and design principles\\assignments\\simsproject\\simsproject\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|solutionrelative:simsproject\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|c:\\users\\fire risky\\onedrive\\documents\\cao \u0111\u1EB3ng fpt\\applied programming and design principles\\assignments\\simsproject\\simsproject\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|solutionrelative:simsproject\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|c:\\users\\fire risky\\onedrive\\documents\\cao \u0111\u1EB3ng fpt\\applied programming and design principles\\assignments\\simsproject\\simsproject\\pages\\tutors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|solutionrelative:simsproject\\pages\\tutors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|c:\\users\\fire risky\\onedrive\\documents\\cao \u0111\u1EB3ng fpt\\applied programming and design principles\\assignments\\simsproject\\simsproject\\pages\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|solutionrelative:simsproject\\pages\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|c:\\users\\fire risky\\onedrive\\documents\\cao \u0111\u1EB3ng fpt\\applied programming and design principles\\assignments\\simsproject\\simsproject\\pages\\tutors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|solutionrelative:simsproject\\pages\\tutors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|c:\\users\\fire risky\\onedrive\\documents\\cao \u0111\u1EB3ng fpt\\applied programming and design principles\\assignments\\simsproject\\simsproject\\pages\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|solutionrelative:simsproject\\pages\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|c:\\users\\fire risky\\onedrive\\documents\\cao \u0111\u1EB3ng fpt\\applied programming and design principles\\assignments\\simsproject\\simsproject\\services\\academicrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|solutionrelative:simsproject\\services\\academicrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|c:\\users\\fire risky\\onedrive\\documents\\cao \u0111\u1EB3ng fpt\\applied programming and design principles\\assignments\\simsproject\\simsproject\\pages\\tutors\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|solutionrelative:simsproject\\pages\\tutors\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|c:\\users\\fire risky\\onedrive\\documents\\cao \u0111\u1EB3ng fpt\\applied programming and design principles\\assignments\\simsproject\\simsproject\\pages\\tutors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|solutionrelative:simsproject\\pages\\tutors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|c:\\users\\fire risky\\onedrive\\documents\\cao \u0111\u1EB3ng fpt\\applied programming and design principles\\assignments\\simsproject\\simsproject\\pages\\tutors\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|solutionrelative:simsproject\\pages\\tutors\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|c:\\users\\fire risky\\onedrive\\documents\\cao \u0111\u1EB3ng fpt\\applied programming and design principles\\assignments\\simsproject\\simsproject\\pages\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|solutionrelative:simsproject\\pages\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|c:\\users\\fire risky\\onedrive\\documents\\cao \u0111\u1EB3ng fpt\\applied programming and design principles\\assignments\\simsproject\\simsproject\\pages\\students\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|solutionrelative:simsproject\\pages\\students\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|c:\\users\\fire risky\\onedrive\\documents\\cao \u0111\u1EB3ng fpt\\applied programming and design principles\\assignments\\simsproject\\simsproject\\pages\\students\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|solutionrelative:simsproject\\pages\\students\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|c:\\users\\fire risky\\onedrive\\documents\\cao \u0111\u1EB3ng fpt\\applied programming and design principles\\assignments\\simsproject\\simsproject\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|solutionrelative:simsproject\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|c:\\users\\fire risky\\onedrive\\documents\\cao \u0111\u1EB3ng fpt\\applied programming and design principles\\assignments\\simsproject\\simsproject\\pages\\courses\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|solutionrelative:simsproject\\pages\\courses\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|c:\\users\\fire risky\\onedrive\\documents\\cao \u0111\u1EB3ng fpt\\applied programming and design principles\\assignments\\simsproject\\simsproject\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|solutionrelative:simsproject\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|c:\\users\\fire risky\\onedrive\\documents\\cao \u0111\u1EB3ng fpt\\applied programming and design principles\\assignments\\simsproject\\simsproject\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|solutionrelative:simsproject\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|c:\\users\\fire risky\\onedrive\\documents\\cao \u0111\u1EB3ng fpt\\applied programming and design principles\\assignments\\simsproject\\simsproject\\models\\academicrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|solutionrelative:simsproject\\models\\academicrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|c:\\users\\fire risky\\onedrive\\documents\\cao \u0111\u1EB3ng fpt\\applied programming and design principles\\assignments\\simsproject\\simsproject\\interfaces\\icsvservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|solutionrelative:simsproject\\interfaces\\icsvservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|c:\\users\\fire risky\\onedrive\\documents\\cao \u0111\u1EB3ng fpt\\applied programming and design principles\\assignments\\simsproject\\simsproject\\interfaces\\iacademicrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|solutionrelative:simsproject\\interfaces\\iacademicrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|c:\\users\\fire risky\\onedrive\\documents\\cao \u0111\u1EB3ng fpt\\applied programming and design principles\\assignments\\simsproject\\simsproject\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|solutionrelative:simsproject\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|c:\\users\\fire risky\\onedrive\\documents\\cao \u0111\u1EB3ng fpt\\applied programming and design principles\\assignments\\simsproject\\simsproject\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|solutionrelative:simsproject\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|c:\\users\\fire risky\\onedrive\\documents\\cao \u0111\u1EB3ng fpt\\applied programming and design principles\\assignments\\simsproject\\simsproject\\pages\\tutors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|solutionrelative:simsproject\\pages\\tutors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|c:\\users\\fire risky\\onedrive\\documents\\cao \u0111\u1EB3ng fpt\\applied programming and design principles\\assignments\\simsproject\\simsproject\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|solutionrelative:simsproject\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|c:\\users\\fire risky\\onedrive\\documents\\cao \u0111\u1EB3ng fpt\\applied programming and design principles\\assignments\\simsproject\\simsproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|solutionrelative:simsproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|c:\\users\\fire risky\\onedrive\\documents\\cao \u0111\u1EB3ng fpt\\applied programming and design principles\\assignments\\simsproject\\simsproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|solutionrelative:simsproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|c:\\users\\fire risky\\onedrive\\documents\\cao \u0111\u1EB3ng fpt\\applied programming and design principles\\assignments\\simsproject\\simsproject\\simsproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|solutionrelative:simsproject\\simsproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|c:\\users\\fire risky\\onedrive\\documents\\cao \u0111\u1EB3ng fpt\\applied programming and design principles\\assignments\\simsproject\\simsproject\\pages\\students\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|solutionrelative:simsproject\\pages\\students\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|c:\\users\\fire risky\\onedrive\\documents\\cao \u0111\u1EB3ng fpt\\applied programming and design principles\\assignments\\simsproject\\simsproject\\pages\\students\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|solutionrelative:simsproject\\pages\\students\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|c:\\users\\fire risky\\onedrive\\documents\\cao \u0111\u1EB3ng fpt\\applied programming and design principles\\assignments\\simsproject\\simsproject\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F0E54660-06AE-492E-BB2B-780CCDFD74A1}|SIMSProject\\SIMSProject.csproj|solutionrelative:simsproject\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 256,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Tutor.cs",
+              "DocumentMoniker": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Models\\Tutor.cs",
+              "RelativeDocumentMoniker": "SIMSProject\\Models\\Tutor.cs",
+              "ToolTip": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Models\\Tutor.cs",
+              "RelativeToolTip": "SIMSProject\\Models\\Tutor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T07:26:34.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ITutorService.cs",
+              "DocumentMoniker": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Interfaces\\ITutorService.cs",
+              "RelativeDocumentMoniker": "SIMSProject\\Interfaces\\ITutorService.cs",
+              "ToolTip": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Interfaces\\ITutorService.cs",
+              "RelativeToolTip": "SIMSProject\\Interfaces\\ITutorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T07:35:08.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TutorService.cs",
+              "DocumentMoniker": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Services\\TutorService.cs",
+              "RelativeDocumentMoniker": "SIMSProject\\Services\\TutorService.cs",
+              "ToolTip": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Services\\TutorService.cs",
+              "RelativeToolTip": "SIMSProject\\Services\\TutorService.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAUwFoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T07:36:12.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Program.cs",
+              "RelativeDocumentMoniker": "SIMSProject\\Program.cs",
+              "ToolTip": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Program.cs",
+              "RelativeToolTip": "SIMSProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T08:30:58.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "SIMSProject\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Services\\StudentService.cs",
+              "RelativeToolTip": "SIMSProject\\Services\\StudentService.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAMwAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T07:35:36.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\Tutors\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "SIMSProject\\Pages\\Tutors\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\Tutors\\Delete.cshtml.cs",
+              "RelativeToolTip": "SIMSProject\\Pages\\Tutors\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T15:13:32.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SISMProject_Test\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "SISMProject_Test\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SISMProject_Test\\UnitTest1.cs",
+              "RelativeToolTip": "SISMProject_Test\\UnitTest1.cs",
+              "ViewState": "AgIAAD4BAAAAAAAAAAAAAFgBAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T13:44:01.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Manage.cshtml",
+              "DocumentMoniker": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\Admin\\Manage.cshtml",
+              "RelativeDocumentMoniker": "SIMSProject\\Pages\\Admin\\Manage.cshtml",
+              "ToolTip": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\Admin\\Manage.cshtml",
+              "RelativeToolTip": "SIMSProject\\Pages\\Admin\\Manage.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAswBMAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-11T09:02:34.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Manage.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\Admin\\Manage.cshtml.cs",
+              "RelativeDocumentMoniker": "SIMSProject\\Pages\\Admin\\Manage.cshtml.cs",
+              "ToolTip": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\Admin\\Manage.cshtml.cs",
+              "RelativeToolTip": "SIMSProject\\Pages\\Admin\\Manage.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T09:17:14.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\Students\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "SIMSProject\\Pages\\Students\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\Students\\Edit.cshtml.cs",
+              "RelativeToolTip": "SIMSProject\\Pages\\Students\\Edit.cshtml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T08:46:29.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "SIMSProject\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "SIMSProject\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T08:32:11.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\Courses\\Index.cshtml",
+              "RelativeDocumentMoniker": "SIMSProject\\Pages\\Courses\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\Courses\\Index.cshtml",
+              "RelativeToolTip": "SIMSProject\\Pages\\Courses\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T07:51:42.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "SIMSProject\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Models\\Course.cs",
+              "RelativeToolTip": "SIMSProject\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T07:25:57.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\Tutors\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "SIMSProject\\Pages\\Tutors\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\Tutors\\Index.cshtml.cs",
+              "RelativeToolTip": "SIMSProject\\Pages\\Tutors\\Index.cshtml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T08:31:55.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Services\\CourseService.cs",
+              "RelativeDocumentMoniker": "SIMSProject\\Services\\CourseService.cs",
+              "ToolTip": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Services\\CourseService.cs",
+              "RelativeToolTip": "SIMSProject\\Services\\CourseService.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAASwDsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T07:35:49.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ICourseService.cs",
+              "DocumentMoniker": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Interfaces\\ICourseService.cs",
+              "RelativeDocumentMoniker": "SIMSProject\\Interfaces\\ICourseService.cs",
+              "ToolTip": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Interfaces\\ICourseService.cs",
+              "RelativeToolTip": "SIMSProject\\Interfaces\\ICourseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T07:33:31.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\Courses\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "SIMSProject\\Pages\\Courses\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\Courses\\Index.cshtml.cs",
+              "RelativeToolTip": "SIMSProject\\Pages\\Courses\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T09:02:04.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\Courses\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "SIMSProject\\Pages\\Courses\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\Courses\\Create.cshtml.cs",
+              "RelativeToolTip": "SIMSProject\\Pages\\Courses\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T15:43:36.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\Courses\\Create.cshtml",
+              "RelativeDocumentMoniker": "SIMSProject\\Pages\\Courses\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\Courses\\Create.cshtml",
+              "RelativeToolTip": "SIMSProject\\Pages\\Courses\\Create.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAWwAoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-03T15:35:27.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\AcademicRecords\\Index.cshtml",
+              "RelativeDocumentMoniker": "SIMSProject\\Pages\\AcademicRecords\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\AcademicRecords\\Index.cshtml",
+              "RelativeToolTip": "SIMSProject\\Pages\\AcademicRecords\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T07:53:04.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\AcademicRecords\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "SIMSProject\\Pages\\AcademicRecords\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\AcademicRecords\\Index.cshtml.cs",
+              "RelativeToolTip": "SIMSProject\\Pages\\AcademicRecords\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T08:32:46.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\AcademicRecords\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SIMSProject\\Pages\\AcademicRecords\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\AcademicRecords\\Edit.cshtml",
+              "RelativeToolTip": "SIMSProject\\Pages\\AcademicRecords\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-12T08:22:04.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\AcademicRecords\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "SIMSProject\\Pages\\AcademicRecords\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\AcademicRecords\\Edit.cshtml.cs",
+              "RelativeToolTip": "SIMSProject\\Pages\\AcademicRecords\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T06:51:19.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\AcademicRecords\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "SIMSProject\\Pages\\AcademicRecords\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\AcademicRecords\\Delete.cshtml.cs",
+              "RelativeToolTip": "SIMSProject\\Pages\\AcademicRecords\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T08:24:21.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\AcademicRecords\\Delete.cshtml",
+              "RelativeDocumentMoniker": "SIMSProject\\Pages\\AcademicRecords\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\AcademicRecords\\Delete.cshtml",
+              "RelativeToolTip": "SIMSProject\\Pages\\AcademicRecords\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-13T06:43:01.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\AcademicRecords\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "SIMSProject\\Pages\\AcademicRecords\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\AcademicRecords\\Create.cshtml.cs",
+              "RelativeToolTip": "SIMSProject\\Pages\\AcademicRecords\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T08:23:52.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\AcademicRecords\\Create.cshtml",
+              "RelativeDocumentMoniker": "SIMSProject\\Pages\\AcademicRecords\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\AcademicRecords\\Create.cshtml",
+              "RelativeToolTip": "SIMSProject\\Pages\\AcademicRecords\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-13T06:42:53.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "courses.csv",
+              "DocumentMoniker": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Data\\courses.csv",
+              "RelativeDocumentMoniker": "SIMSProject\\Data\\courses.csv",
+              "ToolTip": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Data\\courses.csv",
+              "RelativeToolTip": "SIMSProject\\Data\\courses.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-08-13T06:41:53.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\Courses\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "SIMSProject\\Pages\\Courses\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\Courses\\Edit.cshtml.cs",
+              "RelativeToolTip": "SIMSProject\\Pages\\Courses\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T15:44:02.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\Courses\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "SIMSProject\\Pages\\Courses\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\Courses\\Delete.cshtml.cs",
+              "RelativeToolTip": "SIMSProject\\Pages\\Courses\\Delete.cshtml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAcwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T15:44:31.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\Courses\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SIMSProject\\Pages\\Courses\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\Courses\\Edit.cshtml",
+              "RelativeToolTip": "SIMSProject\\Pages\\Courses\\Edit.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAUwBgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-03T15:38:05.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "students.csv",
+              "DocumentMoniker": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Data\\students.csv",
+              "RelativeDocumentMoniker": "SIMSProject\\Data\\students.csv",
+              "ToolTip": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Data\\students.csv",
+              "RelativeToolTip": "SIMSProject\\Data\\students.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-08-18T10:16:20.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "SIMSProject\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Models\\Student.cs",
+              "RelativeToolTip": "SIMSProject\\Models\\Student.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T07:24:15.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SIMSProject\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SIMSProject\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAAAKQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T08:40:17.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "tutors.csv",
+              "DocumentMoniker": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Data\\tutors.csv",
+              "RelativeDocumentMoniker": "SIMSProject\\Data\\tutors.csv",
+              "ToolTip": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Data\\tutors.csv",
+              "RelativeToolTip": "SIMSProject\\Data\\tutors.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-08-18T10:16:10.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "users.csv",
+              "DocumentMoniker": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Data\\users.csv",
+              "RelativeDocumentMoniker": "SIMSProject\\Data\\users.csv",
+              "ToolTip": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Data\\users.csv",
+              "RelativeToolTip": "SIMSProject\\Data\\users.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-08-18T10:16:08.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Models\\User.cs",
+              "RelativeDocumentMoniker": "SIMSProject\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Models\\User.cs",
+              "RelativeToolTip": "SIMSProject\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T07:26:14.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "SIMSProject\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "SIMSProject\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T08:05:11.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Interfaces\\IStudentService.cs",
+              "RelativeDocumentMoniker": "SIMSProject\\Interfaces\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Interfaces\\IStudentService.cs",
+              "RelativeToolTip": "SIMSProject\\Interfaces\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T07:33:09.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CsvService.cs",
+              "DocumentMoniker": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Services\\CsvService.cs",
+              "RelativeDocumentMoniker": "SIMSProject\\Services\\CsvService.cs",
+              "ToolTip": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Services\\CsvService.cs",
+              "RelativeToolTip": "SIMSProject\\Services\\CsvService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAkwCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T08:59:38.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "SIMSProject\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "SIMSProject\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T08:05:23.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "lecturers.csv",
+              "DocumentMoniker": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Data\\lecturers.csv",
+              "RelativeDocumentMoniker": "SIMSProject\\Data\\lecturers.csv",
+              "ToolTip": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Data\\lecturers.csv",
+              "RelativeToolTip": "SIMSProject\\Data\\lecturers.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-08-13T06:41:55.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "academic_records.csv",
+              "DocumentMoniker": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Data\\academic_records.csv",
+              "RelativeDocumentMoniker": "SIMSProject\\Data\\academic_records.csv",
+              "ToolTip": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Data\\academic_records.csv",
+              "RelativeToolTip": "SIMSProject\\Data\\academic_records.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-08-18T10:04:17.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "SIMSProject\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Services\\AuthService.cs",
+              "RelativeToolTip": "SIMSProject\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T07:36:01.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "SIMSProject\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "SIMSProject\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T07:34:53.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "SIMSProject\\Pages\\Account\\Logout.cshtml.cs",
+              "ToolTip": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeToolTip": "SIMSProject\\Pages\\Account\\Logout.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T15:36:29.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAANgUAAAAAAAAAAArwOAUAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-08-13T15:18:46.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\Tutors\\Create.cshtml",
+              "RelativeDocumentMoniker": "SIMSProject\\Pages\\Tutors\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\Tutors\\Create.cshtml",
+              "RelativeToolTip": "SIMSProject\\Pages\\Tutors\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T07:52:21.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\Tutors\\Index.cshtml",
+              "RelativeDocumentMoniker": "SIMSProject\\Pages\\Tutors\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\Tutors\\Index.cshtml",
+              "RelativeToolTip": "SIMSProject\\Pages\\Tutors\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T07:52:09.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\Students\\Create.cshtml",
+              "RelativeDocumentMoniker": "SIMSProject\\Pages\\Students\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\Students\\Create.cshtml",
+              "RelativeToolTip": "SIMSProject\\Pages\\Students\\Create.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAtwA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T07:49:17.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\Students\\Index.cshtml",
+              "RelativeDocumentMoniker": "SIMSProject\\Pages\\Students\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\Students\\Index.cshtml",
+              "RelativeToolTip": "SIMSProject\\Pages\\Students\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwBcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T07:48:59.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\Tutors\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "SIMSProject\\Pages\\Tutors\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\Tutors\\Edit.cshtml.cs",
+              "RelativeToolTip": "SIMSProject\\Pages\\Tutors\\Edit.cshtml.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAiwCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T15:12:26.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\Tutors\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SIMSProject\\Pages\\Tutors\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\Tutors\\Edit.cshtml",
+              "RelativeToolTip": "SIMSProject\\Pages\\Tutors\\Edit.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwBYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-03T15:12:22.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "AcademicRecordService.cs",
+              "DocumentMoniker": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Services\\AcademicRecordService.cs",
+              "RelativeDocumentMoniker": "SIMSProject\\Services\\AcademicRecordService.cs",
+              "ToolTip": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Services\\AcademicRecordService.cs",
+              "RelativeToolTip": "SIMSProject\\Services\\AcademicRecordService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T07:36:24.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\Tutors\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "SIMSProject\\Pages\\Tutors\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\Tutors\\Create.cshtml.cs",
+              "RelativeToolTip": "SIMSProject\\Pages\\Tutors\\Create.cshtml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T08:32:05.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\Students\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SIMSProject\\Pages\\Students\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\Students\\Edit.cshtml",
+              "RelativeToolTip": "SIMSProject\\Pages\\Students\\Edit.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwBMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T07:49:44.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\Students\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "SIMSProject\\Pages\\Students\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\Students\\Delete.cshtml.cs",
+              "RelativeToolTip": "SIMSProject\\Pages\\Students\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T08:46:27.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\Students\\Delete.cshtml",
+              "RelativeDocumentMoniker": "SIMSProject\\Pages\\Students\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\Students\\Delete.cshtml",
+              "RelativeToolTip": "SIMSProject\\Pages\\Students\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T07:49:57.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "SIMSProject\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "SIMSProject\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T08:40:23.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\Courses\\Delete.cshtml",
+              "RelativeDocumentMoniker": "SIMSProject\\Pages\\Courses\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\Courses\\Delete.cshtml",
+              "RelativeToolTip": "SIMSProject\\Pages\\Courses\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-03T15:37:51.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "SIMSProject\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "SIMSProject\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T09:18:44.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "SIMSProject\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "SIMSProject\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-11T09:01:50.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "AcademicRecord.cs",
+              "DocumentMoniker": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Models\\AcademicRecord.cs",
+              "RelativeDocumentMoniker": "SIMSProject\\Models\\AcademicRecord.cs",
+              "ToolTip": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Models\\AcademicRecord.cs",
+              "RelativeToolTip": "SIMSProject\\Models\\AcademicRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T07:26:46.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "ICsvService.cs",
+              "DocumentMoniker": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Interfaces\\ICsvService.cs",
+              "RelativeDocumentMoniker": "SIMSProject\\Interfaces\\ICsvService.cs",
+              "ToolTip": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Interfaces\\ICsvService.cs",
+              "RelativeToolTip": "SIMSProject\\Interfaces\\ICsvService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T08:55:28.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "IAcademicRecordService.cs",
+              "DocumentMoniker": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Interfaces\\IAcademicRecordService.cs",
+              "RelativeDocumentMoniker": "SIMSProject\\Interfaces\\IAcademicRecordService.cs",
+              "ToolTip": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Interfaces\\IAcademicRecordService.cs",
+              "RelativeToolTip": "SIMSProject\\Interfaces\\IAcademicRecordService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T07:35:23.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "SIMSProject\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\Index.cshtml",
+              "RelativeToolTip": "SIMSProject\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-11T09:01:03.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "SIMSProject\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "SIMSProject\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T10:12:23.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "SIMSProject\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\appsettings.Development.json",
+              "RelativeToolTip": "SIMSProject\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-05T07:08:19.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\Tutors\\Delete.cshtml",
+              "RelativeDocumentMoniker": "SIMSProject\\Pages\\Tutors\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\Tutors\\Delete.cshtml",
+              "RelativeToolTip": "SIMSProject\\Pages\\Tutors\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-03T15:13:19.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SIMSProject\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SIMSProject\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-31T08:10:39.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "SIMSProject\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "SIMSProject\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-31T08:06:32.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\Students\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "SIMSProject\\Pages\\Students\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\Students\\Create.cshtml.cs",
+              "RelativeToolTip": "SIMSProject\\Pages\\Students\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T09:01:37.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\Students\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "SIMSProject\\Pages\\Students\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\Pages\\Students\\Index.cshtml.cs",
+              "RelativeToolTip": "SIMSProject\\Pages\\Students\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T08:32:01.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\appsettings.json",
+              "RelativeDocumentMoniker": "SIMSProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\appsettings.json",
+              "RelativeToolTip": "SIMSProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-30T08:33:21.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "SIMSProject.csproj",
+              "DocumentMoniker": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\SIMSProject.csproj",
+              "RelativeDocumentMoniker": "SIMSProject\\SIMSProject.csproj",
+              "ToolTip": "C:\\Users\\Fire Risky\\OneDrive\\Documents\\cao \u0111\u1EB3ng FPT\\Applied Programming and Design Principles\\Assignments\\SIMSProject\\SIMSProject\\SIMSProject.csproj",
+              "RelativeToolTip": "SIMSProject\\SIMSProject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-29T08:42:21.695Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

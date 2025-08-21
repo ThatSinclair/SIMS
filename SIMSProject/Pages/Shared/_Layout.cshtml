@@ -1,0 +1,200 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - SIMSProject</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/SIMSProject.styles.css" asp-append-version="true" />
+    <style>
+        .navbar-nav .nav-item {
+            margin-right: 15px;
+            display: flex;
+            align-items: center;
+        }
+
+        .navbar-nav .nav-link {
+            padding: 0.5rem 1rem;
+            line-height: 1.5;
+        }
+
+        .navbar-collapse {
+            justify-content: space-between !important;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container">
+                <a class="navbar-brand" asp-area="" asp-page="/Index">SIMSProject</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        @if (User.Identity.IsAuthenticated)
+                        {
+                            @if (User.IsInRole("Admin"))
+                            {
+                                <li class="nav-item">
+                                    <a class="nav-link text-dark" asp-area="" asp-page="/Index">Home</a>
+                                </li>
+                                <li class="nav-item dropdown">
+                                    <a class="nav-link text-dark dropdown-toggle" href="#" id="studentsDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                        Student
+                                    </a>
+                                    <ul class="dropdown-menu" aria-labelledby="studentsDropdown">
+                                        <li><a class="dropdown-item" asp-page="/Students/Index">View All Students</a></li>
+                                        <li><a class="dropdown-item" asp-page="/Students/Create">Add New Student</a></li>
+                                    </ul>
+                                </li>
+                                <li class="nav-item dropdown">
+                                    <a class="nav-link text-dark dropdown-toggle" href="#" id="tutorsDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                        Tutor
+                                    </a>
+                                    <ul class="dropdown-menu" aria-labelledby="tutorsDropdown">
+                                        <li><a class="dropdown-item" asp-page="/Tutors/Index">View All Tutors</a></li>
+                                        <li><a class="dropdown-item" asp-page="/Tutors/Create">Add New Tutor</a></li>
+                                    </ul>
+                                </li>
+                                <li class="nav-item dropdown">
+                                    <a class="nav-link text-dark dropdown-toggle" href="#" id="coursesDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                        Course
+                                    </a>
+                                    <ul class="dropdown-menu" aria-labelledby="coursesDropdown">
+                                        <li><a class="dropdown-item" asp-page="/Courses/Index">View All Courses</a></li>
+                                        <li><a class="dropdown-item" asp-page="/Courses/Create">Add New Course</a></li>
+                                    </ul>
+                                </li>
+                                <li class="nav-item dropdown">
+                                    <a class="nav-link text-dark dropdown-toggle" href="#" id="academicRecordsDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                        Academic Records
+                                    </a>
+                                    <ul class="dropdown-menu" aria-labelledby="academicRecordsDropdown">
+                                        <li><a class="dropdown-item" asp-page="/AcademicRecords/Index">View All Records</a></li>
+                                        <li><a class="dropdown-item" asp-page="/AcademicRecords/Create">Add New Record</a></li>
+                                    </ul>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link text-dark" asp-area="" asp-page="/Admin/Manage">Admin Manage</a>
+                                </li>
+                            }
+                            else if (User.IsInRole("Tutor"))
+                            {
+                                <li class="nav-item">
+                                    <a class="nav-link text-dark" asp-area="" asp-page="/Index">Home</a>
+                                </li>
+                                <li class="nav-item dropdown">
+                                    <a class="nav-link text-dark dropdown-toggle" href="#" id="studentsDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                        Student
+                                    </a>
+                                    <ul class="dropdown-menu" aria-labelledby="studentsDropdown">
+                                        <li><a class="dropdown-item" asp-page="/Students/Index">View All Students</a></li>
+                                    </ul>
+                                </li>
+                                <li class="nav-item dropdown">
+                                    <a class="nav-link text-dark dropdown-toggle" href="#" id="tutorsDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                        Tutor
+                                    </a>
+                                    <ul class="dropdown-menu" aria-labelledby="tutorsDropdown">
+                                        <li><a class="dropdown-item" asp-page="/Tutors/Index">View All Tutors</a></li>
+                                    </ul>
+                                </li>
+                                <li class="nav-item dropdown">
+                                    <a class="nav-link text-dark dropdown-toggle" href="#" id="coursesDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                        Course
+                                    </a>
+                                    <ul class="dropdown-menu" aria-labelledby="coursesDropdown">
+                                        <li><a class="dropdown-item" asp-page="/Courses/Index">View All Courses</a></li>
+                                        <li><a class="dropdown-item" asp-page="/Courses/Create">Add New Course</a></li>
+                                    </ul>
+                                </li>
+                                <li class="nav-item dropdown">
+                                    <a class="nav-link text-dark dropdown-toggle" href="#" id="academicRecordsDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                        Academic Records
+                                    </a>
+                                    <ul class="dropdown-menu" aria-labelledby="academicRecordsDropdown">
+                                        <li><a class="dropdown-item" asp-page="/AcademicRecords/Index">View All Records</a></li>
+                                        <li><a class="dropdown-item" asp-page="/AcademicRecords/Create">Add New Record</a></li>
+                                    </ul>
+                                </li>
+                            }
+                            else if (User.IsInRole("Student"))
+                            {
+                                <li class="nav-item dropdown">
+                                    <a class="nav-link text-dark dropdown-toggle" href="#" id="coursesDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                        Courses
+                                    </a>
+                                    <ul class="dropdown-menu" aria-labelledby="coursesDropdown">
+                                        <li><a class="dropdown-item" asp-page="/Courses/Index">View All Courses</a></li>
+                                    </ul>
+                                </li>
+                                <li class="nav-item dropdown">
+                                    <a class="nav-link text-dark dropdown-toggle" href="#" id="academicRecordsDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                        Academic Records
+                                    </a>
+                                    <ul class="dropdown-menu" aria-labelledby="academicRecordsDropdown">
+                                        <li><a class="dropdown-item" asp-page="/AcademicRecords/Index">View All Records</a></li>
+                                    </ul>
+                                </li>
+                            }
+                        }
+                        else
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-page="/Account/Login">Login</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-page="/Account/Register">Register</a>
+                            </li>
+                        }
+                    </ul>
+
+                    <ul class="navbar-nav">
+                        @if (User.Identity.IsAuthenticated)
+                        {
+                            @if (User.IsInRole("Student"))
+                            {
+                                <li class="nav-item">
+                                    <a class="nav-link text-dark" asp-page="/Courses/Index">My Courses</a>
+                                </li>
+                            }
+                            @if (User.IsInRole("Tutor"))
+                            {
+                                <li class="nav-item">
+                                    <a class="nav-link text-dark" asp-page="/Students/Index">My Students</a>
+                                </li>
+                            }
+                            <li class="nav-item">
+                                <form method="post" asp-area="" asp-page="/Account/Logout" class="d-inline">
+                                    <button type="submit" class="nav-link btn btn-link text-dark" style="display:inline; padding:0;">Logout</button>
+                                </form>
+                            </li>
+                        }
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; @DateTime.Now.Year - SIMSProject - <a asp-area="" asp-page="/Privacy">Privacy</a>
+        </div>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

@@ -1,0 +1,247 @@
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\bin\Debug\net8.0\SIMSProject.exe
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\bin\Debug\net8.0\SIMSProject.dll
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\bin\Debug\net8.0\appsettings.json
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\bin\Debug\net8.0\SIMSProject.staticwebassets.runtime.json
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\bin\Debug\net8.0\SIMSProject.staticwebassets.endpoints.json
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\bin\Debug\net8.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\obj\Debug\net8.0\SIMSProject.csproj.AssemblyReference.cache
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\obj\Debug\net8.0\SIMSProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\obj\Debug\net8.0\SIMSProject.AssemblyInfoInputs.cache
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\obj\Debug\net8.0\SIMSProject.AssemblyInfo.cs
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\obj\Debug\net8.0\SIMSProject.csproj.CoreCompileInputs.cache
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\obj\Debug\net8.0\SIMSProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\obj\Debug\net8.0\SIMSProject.RazorAssemblyInfo.cache
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\obj\Debug\net8.0\SIMSProject.RazorAssemblyInfo.cs
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\obj\Debug\net8.0\scopedcss\bundle\SIMSProject.styles.css
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\obj\Debug\net8.0\scopedcss\projectbundle\SIMSProject.bundle.scp.css
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\obj\Debug\net8.0\SIMSProj.70C74925.Up2Date
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\obj\Debug\net8.0\SIMSProject.dll
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\obj\Debug\net8.0\refint\SIMSProject.dll
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\obj\Debug\net8.0\SIMSProject.pdb
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\bin\Debug\net8.0\SIMSProject.deps.json
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\bin\Debug\net8.0\SIMSProject.runtimeconfig.json
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\bin\Debug\net8.0\SIMSProject.pdb
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\obj\Debug\net8.0\SIMSProject.genruntimeconfig.cache
+C:\Users\trand\source\repos\SIMSProject\SIMSProject\obj\Debug\net8.0\ref\SIMSProject.dll
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\obj\Debug\net8.0\SIMSProject.csproj.AssemblyReference.cache
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\obj\Debug\net8.0\SIMSProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\obj\Debug\net8.0\SIMSProject.AssemblyInfoInputs.cache
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\obj\Debug\net8.0\SIMSProject.AssemblyInfo.cs
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\obj\Debug\net8.0\SIMSProject.csproj.CoreCompileInputs.cache
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\obj\Debug\net8.0\SIMSProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\obj\Debug\net8.0\SIMSProject.RazorAssemblyInfo.cache
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\obj\Debug\net8.0\SIMSProject.RazorAssemblyInfo.cs
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\bin\Debug\net8.0\appsettings.json
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\bin\Debug\net8.0\SIMSProject.staticwebassets.runtime.json
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\bin\Debug\net8.0\SIMSProject.staticwebassets.endpoints.json
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\bin\Debug\net8.0\SIMSProject.exe
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\bin\Debug\net8.0\SIMSProject.deps.json
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\bin\Debug\net8.0\SIMSProject.runtimeconfig.json
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\bin\Debug\net8.0\SIMSProject.dll
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\bin\Debug\net8.0\SIMSProject.pdb
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\bin\Debug\net8.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\obj\Debug\net8.0\scopedcss\bundle\SIMSProject.styles.css
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\obj\Debug\net8.0\scopedcss\projectbundle\SIMSProject.bundle.scp.css
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\obj\Debug\net8.0\SIMSProj.70C74925.Up2Date
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\obj\Debug\net8.0\SIMSProject.dll
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\obj\Debug\net8.0\refint\SIMSProject.dll
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\obj\Debug\net8.0\SIMSProject.pdb
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\obj\Debug\net8.0\SIMSProject.genruntimeconfig.cache
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\obj\Debug\net8.0\ref\SIMSProject.dll
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\bin\Debug\net8.0\MELT.dll
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\bin\Debug\net8.0\MELT.AspNetCore.dll
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Testing.dll
+C:\Users\trand\OneDrive\Desktop\Applied Programmig and Design Principles\SIMSProject\SIMSProject\bin\Debug\net8.0\Microsoft.AspNetCore.TestHost.dll
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\bin\Debug\net8.0\appsettings.json
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\bin\Debug\net8.0\SIMSProject.staticwebassets.endpoints.json
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\bin\Debug\net8.0\SIMSProject.staticwebassets.runtime.json
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\bin\Debug\net8.0\SIMSProject.exe
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\bin\Debug\net8.0\SIMSProject.deps.json
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\bin\Debug\net8.0\SIMSProject.runtimeconfig.json
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\bin\Debug\net8.0\SIMSProject.dll
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\bin\Debug\net8.0\SIMSProject.pdb
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\bin\Debug\net8.0\MELT.dll
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\bin\Debug\net8.0\MELT.AspNetCore.dll
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Testing.dll
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\bin\Debug\net8.0\Microsoft.AspNetCore.TestHost.dll
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\bin\Debug\net8.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\obj\Debug\net8.0\SIMSProject.csproj.AssemblyReference.cache
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\obj\Debug\net8.0\SIMSProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\obj\Debug\net8.0\SIMSProject.AssemblyInfoInputs.cache
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\obj\Debug\net8.0\SIMSProject.AssemblyInfo.cs
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\obj\Debug\net8.0\SIMSProject.csproj.CoreCompileInputs.cache
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\obj\Debug\net8.0\SIMSProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\obj\Debug\net8.0\SIMSProject.RazorAssemblyInfo.cache
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\obj\Debug\net8.0\SIMSProject.RazorAssemblyInfo.cs
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\obj\Debug\net8.0\scopedcss\bundle\SIMSProject.styles.css
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\obj\Debug\net8.0\scopedcss\projectbundle\SIMSProject.bundle.scp.css
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\obj\Debug\net8.0\SIMSProj.70C74925.Up2Date
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\obj\Debug\net8.0\SIMSProject.dll
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\obj\Debug\net8.0\refint\SIMSProject.dll
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\obj\Debug\net8.0\SIMSProject.pdb
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\obj\Debug\net8.0\SIMSProject.genruntimeconfig.cache
+C:\Users\Fire Risky\OneDrive\Documents\cao đẳng FPT\Applied Programming and Design Principles\Assignments\SIMSProject\SIMSProject\obj\Debug\net8.0\ref\SIMSProject.dll

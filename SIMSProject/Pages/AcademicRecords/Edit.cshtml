@@ -1,0 +1,21 @@
+﻿@page "{id:int}"
+@model SIMSProject.Pages.AcademicRecords.EditModel
+
+<h2>Edit Academic Record</h2>
+
+<form method="post">
+    <input type="hidden" asp-for="AcademicRecord.Id" />
+    <div>
+        <label asp-for="AcademicRecord.StudentId"></label>
+        <input asp-for="AcademicRecord.StudentId" />
+    </div>
+    <div>
+        <label asp-for="AcademicRecord.CourseId"></label>
+        <input asp-for="AcademicRecord.CourseId" />
+    </div>
+    <div>
+        <label asp-for="AcademicRecord.Grade"></label>
+        <input asp-for="AcademicRecord.Grade" />
+    </div>
+    <button type="submit">Save</button>
+</form>

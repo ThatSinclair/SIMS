@@ -1,0 +1,35 @@
+﻿@page
+@model SIMSProject.Pages.Tutors.CreateModel
+@{
+    ViewData["Title"] = "Create Tutor";
+}
+
+<h1>Create Tutor</h1>
+<form method="post">
+    <div class="form-group">
+        <label asp-for="Tutor.Name"></label>
+        <input asp-for="Tutor.Name" class="form-control" />
+        <span asp-validation-for="Tutor.Name" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Tutor.Email"></label>
+        <input asp-for="Tutor.Email" class="form-control" />
+        <span asp-validation-for="Tutor.Email" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Tutor.ExperienceYears"></label>
+        <input asp-for="Tutor.ExperienceYears" class="form-control" />
+        <span asp-validation-for="Tutor.ExperienceYears" class="text-danger"></span>
+    </div>
+    @inject Microsoft.AspNetCore.Http.IHttpContextAccessor HttpContextAccessor
+
+    @if (HttpContextAccessor.HttpContext.User.IsInRole("Admin"))
+    {
+        <button type="submit" class="btn btn-primary">Create</button>
+    }
+    <a asp-page="/Index" class="btn btn-secondary">Cancel</a>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
